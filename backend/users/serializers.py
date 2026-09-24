@@ -28,3 +28,4 @@ class UserSerializer(serializers.ModelSerializer):
 
 #ai generated
 
+#jhdsfjhsdhjfshdjf
