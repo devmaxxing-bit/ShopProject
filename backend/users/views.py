@@ -59,3 +59,5 @@ def logout_view(request):
 @permission_classes([IsAuthenticated])
 def profile_view(request):
     return Response(UserSerializer(request.user).data)
+
+#kjsadjksajkdjksadjk
